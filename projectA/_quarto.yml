@@ -1,0 +1,6 @@
+project:
+  title: "Test A"
+  pre-render: softlinks.R
+  
+
+
